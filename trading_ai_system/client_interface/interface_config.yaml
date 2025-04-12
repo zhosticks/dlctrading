@@ -1,7 +1,0 @@
-# Конфигурация взаимодействия с клиентом
-
-steps:
-  - receive_voice
-  - convert_to_text
-  - analyze_strategy
-  - deploy_strategy
